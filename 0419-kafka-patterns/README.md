@@ -12,13 +12,22 @@
 
 ### Slides
 
+https://www.slideshare.net/FlorentRamiere/apache-kafka-patterns-antipatterns
+
 ### Video
+
+TODO
 
 ### Code
 
+N/A
+
 ### Interest
 
+5/5
+
 ### Summary
+
 > quote
 
 ### Notes
@@ -65,4 +74,3 @@ commit -> risqué placé au mauvais endroit ou mauvais moment
 
 Must read avant de penser à la Prod.
 Aussi pendant le design par rapport aux tradefoff à considérer.
-
