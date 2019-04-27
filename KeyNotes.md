@@ -1,15 +1,22 @@
 ## Jeudi
 
-Le bonheur être au travail
+### Le bonheur être au travail
 
-La bienveillance
+### La bienveillance
+
+Amiral Olivier Lajous 
 
 
 ## Vendredi
 
-Accessibilité
+### Accessibilité
 
-HumanOps
+Dans le code, penser :
+- aux balises alt
+- attribut lang
+- à utiliser les bonnes balises de headers
+
+### HumanOps
 
 ### Le burnout
 

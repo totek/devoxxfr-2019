@@ -1,2 +1,3 @@
-# devoxxfr-2019
+# Devoxx FR 2019
+
 Feedback on Devoxx FR 2019

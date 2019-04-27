@@ -6,7 +6,10 @@
 ### Hashtag
 
 ### Speaker
-* [name](link)
+
+* [Florent Ramière](https://twitter.com/framiere)
+* [Jean Louis Boudart](https://twitter.com/jlboudart)
+
 ### Slides
 
 ### Video

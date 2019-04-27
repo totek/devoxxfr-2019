@@ -10,6 +10,7 @@ Java, JVM, Javas SE/EE
 ### Speaker
 
 * [Emmanuel Bernard](https://www.twitter.com/@emmanuelbernard) - RedHat
+https://twitter.com/QuarkusIO
 
 ### Slides
 
