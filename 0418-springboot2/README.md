@@ -1,17 +1,20 @@
-## [Title](link)
-**_Format_**
+## [Applications web efficaces avec Spring Boot 2](https://cfp.devoxx.fr/2019/talk/SHR-7581/Applications_web_efficaces_avec_Spring_Boot_2)
+**_Conference_**
 
 ### Thématique
 
+Java, JVM, Javas SE/EE
+ 
 ### Hashtag
 
 ### Speaker
 
-* [name](link)
+* [Stéphane Nicoll](https://www.twitter.com/@snicoll)
+* [Brian Clozel](https://www.twitter.com/@bclozel)
 
 ### Slides
 
-TODO
+N/A
 
 ### Video
 
@@ -19,7 +22,7 @@ TODO
 
 ### Code
 
-TODO
+https://github.com/snicoll-demos/initializr-stats
 
 ### Interest
 
@@ -27,7 +30,11 @@ TODO
 
 ### Summary
 
-> TODO
+> Comment peut-on améliorer l'efficacité et la scalabilité d'une application web existante? On pourrait complètement la réécrire, avec programmation plus concurrente, fonctionnelle, ou réactive. Mais est-ce que ça vaut vraiment le coup, sans mesurer et savoir où concentrer nos efforts?
+  
+> Dans cette présentation, Stéphane et Brian vont travailler sur une application Spring Boot MVC existante pour la rendre plus efficace. Ils vont remplacer RestTemplate par WebClient et utiliser des opérateurs Reactor pour améliorer la scalabilité, sans tomber dans les pièges de la programmation concurrente.
+  
+> Ils vont utiliser des métriques fournies par Spring Boot, en ajouter des personnalisées, et garder un oeil sur les gains de capacité dans des dashboards.
 
 ### Notes
 
