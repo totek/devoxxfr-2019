@@ -18,7 +18,7 @@ TODO
 
 ### Video
 
-TODO
+https://youtu.be/V8LuYPBFh0k
 
 ### Code
 
